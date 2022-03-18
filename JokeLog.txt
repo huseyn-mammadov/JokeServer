@@ -1,0 +1,66 @@
+Last login: Sun Jun 27 20:20:24 on ttys000
+hmammado@Huseyns-MacBook-Pro ~ % cd desktop/java/joke
+hmammado@Huseyns-MacBook-Pro joke % java JokeClientAdmin.java
+Huseyn's Admin Client 
+
+Type your mode: 1 for proverb, 2 for joke, or quit
+2
+Mode switched to Joke
+Type your mode: 1 for proverb, 2 for joke, or quit
+quit
+Cancelled by user request
+hmammado@Huseyns-MacBook-Pro joke % 
+
+Last login: Sun Jun 27 20:20:30 on ttys001
+hmammado@Huseyns-MacBook-Pro ~ % cd desktop/java/joke
+hmammado@Huseyns-MacBook-Pro joke % java JokeClient.java     
+Huseyn Mammadov's Joke client 
+
+Server in the progress localhost, port number: 4546
+Type your nickname or name
+Huseyn 
+Press Enter or type quit for exit
+
+PC Huseyn A wise man shall hold his tongue till he sees his opportunity.
+Press Enter or type quit for exit
+
+PC Huseyn A wise man shall hold his tongue till he sees his opportunity.
+Press Enter or type quit for exit
+
+PC Huseyn A wise man shall hold his tongue till he sees his opportunity.
+Press Enter or type quit for exit
+
+PA Huseyn A stitch in time saves nine..
+Press Enter or type quit for exit
+
+JC Huseyn, Why did the gym close down? It just didn't work out!
+Press Enter or type quit for exit
+
+JD Huseyn, Two artists had an art contest. It ended in a draw!.
+Press Enter or type quit for exit
+
+JB Huseyn, Talk is cheap? Have you ever talked to a lawyer?
+Press Enter or type quit for exit
+
+JD Huseyn, Two artists had an art contest. It ended in a draw!.
+Press Enter or type quit for exit
+
+Last login: Sun Jun 27 19:46:57 on ttys002
+hmammado@Huseyns-MacBook-Pro ~ % cd desktop/java/joke
+hmammado@Huseyns-MacBook-Pro joke % java JokeServer.java
+Hi it is related with port 4546
+Huseyn's Joke Server starting up, listening for client port at 4545
+
+[PA Huseyn A stitch in time saves nine.., PB Huseyn  A throne is only a bench covered in purple velvet., PC Huseyn A wise man shall hold his tongue till he sees his opportunity., PD Huseyn Fools rush in where Angels fear to tread.]
+Mode switched to Joke
+[JA Huseyn, I hate Russian dolls… they are so full of themselves!, JB Huseyn, Talk is cheap? Have you ever talked to a lawyer?, JC Huseyn, Why did the gym close down? It just didn't work out!, JD Huseyn, Two artists had an art contest. It ended in a draw!.]
+
+
+
+
+
+
+
+
+
+
